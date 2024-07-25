@@ -2,7 +2,7 @@
     "name": "LegendsOfTheLostRealm",
     "version_number": "0.1.0",
     "website_url": "https://github.com/msnooze/valheim-legends-of-the-lost-realm",
-    "description": "Designed as a friendpack, this modpack enhances the vanilla Valheim experience, making the game less tedious while improving network capabilities and balancing mods to ensure nothing feels overpowered. Whether you're a seasoned warrior or a brave new explorer, ';egends of the Lost Realm' offers endless excitement and challenges in the ultimate Valheim experience. Prepare for a saga of legend and lore—your adventure awaits!",
+    "description": "Whether you're a seasoned warrior or a brave new explorer, 'Legends of the Lost Realm' offers endless excitement and challenges in the ultimate Valheim experience. Prepare for a saga of legend and lore—your adventure awaits!",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2202",
         "Azumatt-Official_BepInEx_ConfigurationManager-18.3.0",
