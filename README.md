@@ -1,5 +1,4 @@
 # Legends of the Lost Realm - Valheim Modpack
----
 
 Legends of the Lost Realm: A Valheim Mod
 
