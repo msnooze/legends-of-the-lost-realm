@@ -1,7 +1,7 @@
 {
     "name": "LegendsOfTheLostRealm",
-    "version_number": "0.1.0",
-    "website_url": "https://github.com/msnooze/valheim-legends-of-the-lost-realm",
+    "version_number": "0.2.0",
+    "website_url": "",
     "description": "Whether you're a seasoned warrior or a brave new explorer, 'Legends of the Lost Realm' offers endless excitement and challenges in the ultimate Valheim experience. Prepare for a saga of legend and lore—your adventure awaits!",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2202",
@@ -16,7 +16,6 @@
         "ishid4-BetterArchery-1.9.7",
         "Marlthon-TheFisher-0.2.3",
         "OdinPlus-OdinBanners-1.1.8",
-        "Smoothbrain-TargetPortal-1.1.20",
         "Smoothbrain-Farming-2.1.12",
         "Smoothbrain-Evasion-1.0.3",
         "Smoothbrain-PackHorse-1.0.3",
