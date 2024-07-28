@@ -1,6 +1,6 @@
 {
     "name": "LegendsOfTheLostRealm",
-    "version_number": "0.5.0",
+    "version_number": "0.6.0",
     "website_url": "",
     "description": "Whether you're a seasoned warrior or a brave new explorer, 'Legends of the Lost Realm' offers endless excitement and challenges in the ultimate Valheim experience. Prepare for a saga of legend and lore—your adventure awaits!",
     "dependencies": [
@@ -32,7 +32,6 @@
         "Smoothbrain-Sailing-1.1.7",
         "Smoothbrain-DualWield-1.0.9",
         "Smoothbrain-TargetPortal-1.1.20",
-        "SpikeHimself-XPortal-1.2.21",
         "Tekla-AutoRepair-5.4.1602",
         "The_Bees_Decree-VALKEA-2.2.0",
         "Therzie-Armory-1.2.1",
