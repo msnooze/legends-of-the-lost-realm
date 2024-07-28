@@ -1,13 +1,12 @@
 {
     "name": "LegendsOfTheLostRealm",
-    "version_number": "0.4.0",
+    "version_number": "0.5.0",
     "website_url": "",
     "description": "Whether you're a seasoned warrior or a brave new explorer, 'Legends of the Lost Realm' offers endless excitement and challenges in the ultimate Valheim experience. Prepare for a saga of legend and lore—your adventure awaits!",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2202",
         "Azumatt-Official_BepInEx_ConfigurationManager-18.3.0",
         "Advize-PlantEverything-1.18.1",
-        "Balrond-balrond_shipyard-1.4.4",
         "BetterUI_ForeverMaintained-BetterUI_ForeverMaintained-2.5.6",
         "blacks7ar-Endurance-1.0.7",
         "CW_Jesse-BetterNetworking_Valheim-2.3.2",
